@@ -1,0 +1,2 @@
+senha_do_banco_de_dados
+senha_do_email
